@@ -46,5 +46,5 @@ You are asked to implement a grade book to keep track student grades for several
 •	Report: completeness - 5
 •	Oral Presentation – 5
 ## Running the Program
-•	In order to run the program, please click the link here to access the online IDE
+•	In order to run the program, please click the link [here](https://replit.com/@BradonThymes1/Gradebook#main.sql "Bradon's Gradebook") to access the online IDE
 •	Alternatively, you can take the code and run it on a local IDE
